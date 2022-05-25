@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01", "01\01.csproj", "{64F8507F-1937-4B49-B9E2-6713E068B15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Excursion", "01. Excursion\01. Excursion.csproj", "{5757B07B-DECE-4A7D-A360-35CE27E1955B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Bracelet Stand", "02. Bracelet Stand\02. Bracelet Stand.csproj", "{4271683E-4FCE-45D4-893A-FAF7D23337FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Courier Express", "03. Courier Express\03. Courier Express.csproj", "{697D6A32-F632-4664-820D-797E5E1F9D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Computer Firm", "04. Computer Firm\04. Computer Firm.csproj", "{E742D370-9AEA-4717-A9E6-A6CB4AE02289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Excursion Sale", "05. Excursion Sale\05. Excursion Sale.csproj", "{2C3093A0-6A0F-4FD0-9F43-D0C4E4E71348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Unique PIN Codes", "06. Unique PIN Codes\06. Unique PIN Codes.csproj", "{DC4A15C2-121F-457E-B8A5-91BC9CA881BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F8507F-1937-4B49-B9E2-6713E068B15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F8507F-1937-4B49-B9E2-6713E068B15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F8507F-1937-4B49-B9E2-6713E068B15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F8507F-1937-4B49-B9E2-6713E068B15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5757B07B-DECE-4A7D-A360-35CE27E1955B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5757B07B-DECE-4A7D-A360-35CE27E1955B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5757B07B-DECE-4A7D-A360-35CE27E1955B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5757B07B-DECE-4A7D-A360-35CE27E1955B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4271683E-4FCE-45D4-893A-FAF7D23337FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4271683E-4FCE-45D4-893A-FAF7D23337FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4271683E-4FCE-45D4-893A-FAF7D23337FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4271683E-4FCE-45D4-893A-FAF7D23337FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697D6A32-F632-4664-820D-797E5E1F9D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697D6A32-F632-4664-820D-797E5E1F9D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697D6A32-F632-4664-820D-797E5E1F9D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697D6A32-F632-4664-820D-797E5E1F9D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E742D370-9AEA-4717-A9E6-A6CB4AE02289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E742D370-9AEA-4717-A9E6-A6CB4AE02289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E742D370-9AEA-4717-A9E6-A6CB4AE02289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E742D370-9AEA-4717-A9E6-A6CB4AE02289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3093A0-6A0F-4FD0-9F43-D0C4E4E71348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3093A0-6A0F-4FD0-9F43-D0C4E4E71348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3093A0-6A0F-4FD0-9F43-D0C4E4E71348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3093A0-6A0F-4FD0-9F43-D0C4E4E71348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4A15C2-121F-457E-B8A5-91BC9CA881BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4A15C2-121F-457E-B8A5-91BC9CA881BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4A15C2-121F-457E-B8A5-91BC9CA881BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4A15C2-121F-457E-B8A5-91BC9CA881BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9573557-454C-4E06-905D-A3A77C80911D}
+	EndGlobalSection
+EndGlobal
