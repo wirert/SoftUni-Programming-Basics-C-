@@ -1,2 +1,2 @@
 # SoftUni
-Tasks from SoftUni for C#
+Exercises in C# from SoftUni for beginners
